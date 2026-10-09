@@ -1,0 +1,23 @@
+﻿# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# IDE settings
+.idea/
+
+# Secrets
+.env
+.env.*
+
+# Log files
+data/*.log
+*.log
+
+# Generated ChromaDB database
+chroma_db/
+
+# Test cache
+.pytest_cache/
